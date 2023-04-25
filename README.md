@@ -9,9 +9,9 @@ Input	standard input or input.txt
 
 Output	standard output or output.txt
 
-Write a computer program in C++ programming language to compose a least square approximation for a given data set.
+*Write a computer program in C++ programming language to compose a least square approximation for a given data set.*
 
-Input format:
+**Input format:**
 
 The input contains:
 
@@ -21,7 +21,7 @@ m lines with experimental data ti *space* bi
 
 the degree of the polynomial n
 
-Output format:
+**Output format:**
 
 The output contains:
 
